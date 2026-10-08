@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>The Elon Gazette</title>
+  <subtitle>Weekday briefing on what Elon Musk is saying and doing</subtitle>
+  <link rel="self" type="application/atom+xml" href="https://cfmayer.github.io/elon-gazette/feed.xml"/>
+  <link rel="alternate" type="text/html" href="https://cfmayer.github.io/elon-gazette/"/>
+  <id>https://cfmayer.github.io/elon-gazette/</id>
+  <updated>2026-10-08T15:16:03-04:00</updated>
+  <author><name>The Elon Gazette</name></author>
+  <icon>https://cfmayer.github.io/elon-gazette/apple-touch-icon.png</icon>
+  <rights>The Elon Gazette is compiled from public posts on X and published reporting. Quotes are reproduced verbatim unless marked as translated or paraphrased.</rights>
+  <entry>
+    <title>Thursday, October 8, 2026: Starlink&#x27;s India fight, a Grok Bot shopping clerk, and a White House medal</title>
+    <link rel="alternate" type="text/html" href="https://cfmayer.github.io/elon-gazette/issues/2026-10-08/"/>
+    <link rel="enclosure" type="application/pdf" length="207854" href="https://cfmayer.github.io/elon-gazette/issues/2026-10-08/elon-gazette-2026-10-08.pdf"/>
+    <id>https://cfmayer.github.io/elon-gazette/issues/2026-10-08/</id>
+    <published>2026-10-08T08:00:00-04:00</published>
+    <updated>2026-10-08T15:16:03-04:00</updated>
+    <summary type="html">&lt;p&gt;In the day and a half since Wednesday morning EDT, Elon Musk posted about 93 times. The through-line was Starlink: he accused Indian &quot;oligarchs&quot; of blocking a license after five years of compliance, asked whether Mukesh Ambani is &quot;the real boss of India,&quot; celebrated Starlink Mobile in Bangladesh, cheered Koninklijke Luchtvaart Maatschappij (KLM) picking Starlink for free intercontinental Wi-Fi, and welcomed Crew-12&#x27;s Dragon splashdown off Los Angeles. The Federal Communications Commission (FCC) clearance for 15,000 next-generation direct-to-phone satellites sat under it all.&lt;/p&gt;&lt;p&gt;On the product side, Grok Bot gained a Shopify connector, a promise that simple requests will ride a fast Grok 4.8, and an open router that can call Claude Opus 5.5 and other models. This afternoon, President Donald Trump is set to award Musk the National Medal of Science at the White House &quot;Science: A New Golden Age&quot; summit alongside Sergey Brin, Jensen Huang, and Lisa Su.&lt;/p&gt;</summary>
+  </entry>
+</feed>
