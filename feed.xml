@@ -5,10 +5,19 @@
   <link rel="self" type="application/atom+xml" href="https://cfmayer.github.io/elon-gazette/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://cfmayer.github.io/elon-gazette/"/>
   <id>https://cfmayer.github.io/elon-gazette/</id>
-  <updated>2026-10-08T15:16:03-04:00</updated>
+  <updated>2026-10-09T08:45:50-04:00</updated>
   <author><name>The Elon Gazette</name></author>
   <icon>https://cfmayer.github.io/elon-gazette/apple-touch-icon.png</icon>
   <rights>The Elon Gazette is compiled from public posts on X and published reporting. Quotes are reproduced verbatim unless marked as translated or paraphrased.</rights>
+  <entry>
+    <title>Friday, October 9, 2026: A spectrum &quot;earthquake,&quot; a medal for a &quot;modern-day Edison,&quot; and a bot for hire</title>
+    <link rel="alternate" type="text/html" href="https://cfmayer.github.io/elon-gazette/issues/2026-10-09/"/>
+    <link rel="enclosure" type="application/pdf" length="2151489" href="https://cfmayer.github.io/elon-gazette/issues/2026-10-09/elon-gazette-2026-10-09.pdf"/>
+    <id>https://cfmayer.github.io/elon-gazette/issues/2026-10-09/</id>
+    <published>2026-10-09T08:00:00-04:00</published>
+    <updated>2026-10-09T08:45:50-04:00</updated>
+    <summary type="html">&lt;p&gt;Since late Thursday morning EDT, Elon Musk posted about 50 times, and two events set the tone. At the White House &quot;Science: A New Golden Age&quot; summit, President Donald Trump hung the National Medal of Science on him, calling him &quot;an industrial titan, a brilliant engineer, and one of the greatest technology founders ever to live.&quot; A few hours later SpaceX announced a deal to buy a nationwide 800 MHz spectrum portfolio from Grain Management. Musk called it &quot;the last critical piece of the spectrum puzzle&quot; for complete phone coverage in America, and by Friday morning U.S. and European telecom stocks were sliding.&lt;/p&gt;&lt;p&gt;Between those stories, Musk kept pitching Grok Bot as cheap, capable labor (&quot;like hiring a super smart, hard-working person for peanuts&quot;). He said bots will manage Grokipedia and pointed to a legal benchmark where Grok 4.7 ranked first. He also joked that AI labs should test on Delta flights, backed Anthropic&#x27;s new rule against abusing Claude, reacted to three OpenAI safety researchers going public about their firings, and agreed with a fan that Tesla&#x27;s new European name for its driver-assist software undersells it.&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>Thursday, October 8, 2026: Starlink&#x27;s India fight, a Grok Bot shopping clerk, and a White House medal</title>
     <link rel="alternate" type="text/html" href="https://cfmayer.github.io/elon-gazette/issues/2026-10-08/"/>
