@@ -5,10 +5,19 @@
   <link rel="self" type="application/atom+xml" href="https://cfmayer.github.io/elon-gazette/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://cfmayer.github.io/elon-gazette/"/>
   <id>https://cfmayer.github.io/elon-gazette/</id>
-  <updated>2026-10-13T08:29:55-04:00</updated>
+  <updated>2026-10-14T08:27:44-04:00</updated>
   <author><name>The Elon Gazette</name></author>
   <icon>https://cfmayer.github.io/elon-gazette/apple-touch-icon.png</icon>
   <rights>The Elon Gazette is compiled from public posts on X and published reporting. Quotes are reproduced verbatim unless marked as translated or paraphrased.</rights>
+  <entry>
+    <title>Wednesday, October 14, 2026: A start time for the Roadster, a federal review of Starbase, and SpaceXAI heads to City Hall</title>
+    <link rel="alternate" type="text/html" href="https://cfmayer.github.io/elon-gazette/issues/2026-10-14/"/>
+    <link rel="enclosure" type="application/pdf" length="589663" href="https://cfmayer.github.io/elon-gazette/issues/2026-10-14/elon-gazette-2026-10-14.pdf"/>
+    <id>https://cfmayer.github.io/elon-gazette/issues/2026-10-14/</id>
+    <published>2026-10-14T08:00:00-04:00</published>
+    <updated>2026-10-14T08:27:44-04:00</updated>
+    <summary type="html">&lt;p&gt;Tesla says its Roadster demonstration will stream live on Thursday at 8:55 p.m. EDT, and Elon Musk added, &quot;Timing is everything.&quot; The Federal Aviation Administration (FAA) began a full environmental review of SpaceX&#x27;s plan for up to 456 Starship launches a year from Starbase, Texas, and SpaceX shares fell 4.21% on Tuesday. SpaceXAI agreed to testify before the New York City Council on Friday after a subpoena fight.&lt;/p&gt;&lt;p&gt;Musk&#x27;s roughly $366 million in midterm giving is due to appear in a federal filing on Thursday, The Guardian reported. On X, he promoted Grok Bot through much of Tuesday, told chief executives that posting directly on X beats a press release, and said that, despite leading a podcast&#x27;s beer count, he hardly ever drinks.&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>Tuesday, October 13, 2026: $276 million for the midterms, a new name for FSD in Europe, and one subscription for Grok, Cursor and X</title>
     <link rel="alternate" type="text/html" href="https://cfmayer.github.io/elon-gazette/issues/2026-10-13/"/>
