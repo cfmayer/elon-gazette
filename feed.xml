@@ -5,10 +5,19 @@
   <link rel="self" type="application/atom+xml" href="https://cfmayer.github.io/elon-gazette/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://cfmayer.github.io/elon-gazette/"/>
   <id>https://cfmayer.github.io/elon-gazette/</id>
-  <updated>2026-10-15T08:32:28-04:00</updated>
+  <updated>2026-10-16T08:20:14-04:00</updated>
   <author><name>The Elon Gazette</name></author>
   <icon>https://cfmayer.github.io/elon-gazette/apple-touch-icon.png</icon>
   <rights>The Elon Gazette is compiled from public posts on X and published reporting. Quotes are reproduced verbatim unless marked as translated or paraphrased.</rights>
+  <entry>
+    <title>Friday, October 16, 2026: &quot;Turns out the future does have flying cars&quot;</title>
+    <link rel="alternate" type="text/html" href="https://cfmayer.github.io/elon-gazette/issues/2026-10-16/"/>
+    <link rel="enclosure" type="application/pdf" length="1179873" href="https://cfmayer.github.io/elon-gazette/issues/2026-10-16/elon-gazette-2026-10-16.pdf"/>
+    <id>https://cfmayer.github.io/elon-gazette/issues/2026-10-16/</id>
+    <published>2026-10-16T08:00:00-04:00</published>
+    <updated>2026-10-16T08:20:14-04:00</updated>
+    <summary type="html">&lt;p&gt;Elon Musk&#x27;s Tesla showed a Roadster on Thursday night that clung upside down to a ramp, flipped through the air on SpaceX thrusters and jumped a row of Tesla vehicles at a SpaceX site in McGregor, Texas. He said production starts in 2028. Earlier, a Falcon 9 had launched a classified Space Force payload from California.&lt;/p&gt;&lt;p&gt;Musk said the Star Mind computer SpaceX is building with Nvidia &quot;will reach volume production next year.&quot; A federal filing showed his $158 million made him the main donor behind a record quarter for the Republicans&#x27; Senate super PAC. Ukraine said its Starlink service is back to full strength. SpaceXAI testifies to the New York City Council at 10 a.m. EDT today.&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>Thursday, October 15, 2026: Starshield slowdown, &quot;Time for Zelensky to go,&quot; and the Roadster tonight</title>
     <link rel="alternate" type="text/html" href="https://cfmayer.github.io/elon-gazette/issues/2026-10-15/"/>
