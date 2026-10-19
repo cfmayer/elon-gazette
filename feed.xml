@@ -5,10 +5,19 @@
   <link rel="self" type="application/atom+xml" href="https://cfmayer.github.io/elon-gazette/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://cfmayer.github.io/elon-gazette/"/>
   <id>https://cfmayer.github.io/elon-gazette/</id>
-  <updated>2026-10-16T08:20:14-04:00</updated>
+  <updated>2026-10-19T08:45:00-04:00</updated>
   <author><name>The Elon Gazette</name></author>
   <icon>https://cfmayer.github.io/elon-gazette/apple-touch-icon.png</icon>
   <rights>The Elon Gazette is compiled from public posts on X and published reporting. Quotes are reproduced verbatim unless marked as translated or paraphrased.</rights>
+  <entry>
+    <title>Monday, October 19, 2026: &quot;I will give one of my SpaceX shares to every kid in America&quot;</title>
+    <link rel="alternate" type="text/html" href="https://cfmayer.github.io/elon-gazette/issues/2026-10-19/"/>
+    <link rel="enclosure" type="application/pdf" length="503263" href="https://cfmayer.github.io/elon-gazette/issues/2026-10-19/elon-gazette-2026-10-19.pdf"/>
+    <id>https://cfmayer.github.io/elon-gazette/issues/2026-10-19/</id>
+    <published>2026-10-19T08:00:00-04:00</published>
+    <updated>2026-10-19T08:45:00-04:00</updated>
+    <summary type="html">&lt;p&gt;Elon Musk answered Anthropic&#x27;s new public benefit fund with a pledge of his own before dawn Monday: one SpaceX share for every American child next year, &quot;the first of many.&quot; At Friday&#x27;s close that is about $10.5 billion, &lt;a href=&quot;https://www.cnbc.com/2026/10/19/elon-musk-spacex-shares-giveaway-kids.html&quot;&gt;CNBC calculated&lt;/a&gt;. Hours later Tesla filed a proxy asking shareholders to re-elect him to its board on December 3.&lt;/p&gt;&lt;p&gt;SpaceX reports quarterly results Tuesday and Tesla on Wednesday. Over the weekend Musk traded a Monty Python insult with AI scientist Yann LeCun over the flying Roadster, urged Texans to vote as early voting opened in the Senate race he is funding, and watched Washington and Kyiv argue over who capped Ukraine&#x27;s Starshield service.&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>Friday, October 16, 2026: &quot;Turns out the future does have flying cars&quot;</title>
     <link rel="alternate" type="text/html" href="https://cfmayer.github.io/elon-gazette/issues/2026-10-16/"/>
