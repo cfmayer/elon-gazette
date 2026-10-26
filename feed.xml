@@ -5,10 +5,19 @@
   <link rel="self" type="application/atom+xml" href="https://cfmayer.github.io/elon-gazette/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://cfmayer.github.io/elon-gazette/"/>
   <id>https://cfmayer.github.io/elon-gazette/</id>
-  <updated>2026-10-23T08:57:52-04:00</updated>
+  <updated>2026-10-26T12:10:34-04:00</updated>
   <author><name>The Elon Gazette</name></author>
   <icon>https://cfmayer.github.io/elon-gazette/apple-touch-icon.png</icon>
   <rights>The Elon Gazette is compiled from public posts on X and published reporting. Quotes are reproduced verbatim unless marked as translated or paraphrased.</rights>
+  <entry>
+    <title>Monday, October 26, 2026: Starlink&#x27;s terms, and a $40 billion lease</title>
+    <link rel="alternate" type="text/html" href="https://cfmayer.github.io/elon-gazette/issues/2026-10-26/"/>
+    <link rel="enclosure" type="application/pdf" length="885248" href="https://cfmayer.github.io/elon-gazette/issues/2026-10-26/elon-gazette-2026-10-26.pdf"/>
+    <id>https://cfmayer.github.io/elon-gazette/issues/2026-10-26/</id>
+    <published>2026-10-26T08:00:00-04:00</published>
+    <updated>2026-10-26T12:10:34-04:00</updated>
+    <summary type="html">&lt;p&gt;Elon Musk spent the weekend defending SpaceX&#x27;s decision to restrict how Ukraine&#x27;s military uses Starlink. &quot;Ukraine military violated Starlink terms of service and used it for offensive drone strikes to kill people. That loophole was closed last week,&quot; he &lt;a aria-label=&quot;posted: @elonmusk on X&quot; href=&quot;https://x.com/elonmusk/status/2114063986744275011&quot;&gt;posted&lt;/a&gt; at 2:38 p.m. EDT on Saturday, adding that &quot;SpaceX has done more to defend Ukraine than any private company on Earth BY FAR.&quot; A Ukrainian adviser disputed the account on Sunday, and Ukraine&#x27;s Defense Ministry said Saturday that Starlink speeds had been restored on fast-moving equipment, &lt;a href=&quot;https://www.cnbc.com/2026/10/25/ukraine-musk-starlink-terms-dispute.html&quot;&gt;CNBC reported&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;On Monday, SpaceX disclosed a binding commitment for a roughly $40 billion lease to finance graphics processing units (GPUs), the chips that train and run artificial intelligence (AI) systems. The company&#x27;s &lt;a href=&quot;https://www.sec.gov/Archives/edgar/data/1181412/000110465926118614/tm2628247d1_8k.htm&quot;&gt;8-K filing&lt;/a&gt; names an Apollo-managed entity as the lessor. Musk had previewed it Sunday and used it to argue that lenders are now rationing money for companies without revenue beyond AI data centers.&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>Friday, October 23, 2026: Two committees, two down days</title>
     <link rel="alternate" type="text/html" href="https://cfmayer.github.io/elon-gazette/issues/2026-10-23/"/>
