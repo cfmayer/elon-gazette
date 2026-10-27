@@ -5,10 +5,19 @@
   <link rel="self" type="application/atom+xml" href="https://cfmayer.github.io/elon-gazette/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://cfmayer.github.io/elon-gazette/"/>
   <id>https://cfmayer.github.io/elon-gazette/</id>
-  <updated>2026-10-26T12:10:34-04:00</updated>
+  <updated>2026-10-27T09:15:49-04:00</updated>
   <author><name>The Elon Gazette</name></author>
   <icon>https://cfmayer.github.io/elon-gazette/apple-touch-icon.png</icon>
   <rights>The Elon Gazette is compiled from public posts on X and published reporting. Quotes are reproduced verbatim unless marked as translated or paraphrased.</rights>
+  <entry>
+    <title>Tuesday, October 27, 2026: Six million miles, and &quot;2 or 3 years&quot;</title>
+    <link rel="alternate" type="text/html" href="https://cfmayer.github.io/elon-gazette/issues/2026-10-27/"/>
+    <link rel="enclosure" type="application/pdf" length="720833" href="https://cfmayer.github.io/elon-gazette/issues/2026-10-27/elon-gazette-2026-10-27.pdf"/>
+    <id>https://cfmayer.github.io/elon-gazette/issues/2026-10-27/</id>
+    <published>2026-10-27T08:00:00-04:00</published>
+    <updated>2026-10-27T09:15:49-04:00</updated>
+    <summary type="html">&lt;p&gt;Tesla&#x27;s updated &lt;a href=&quot;https://www.tesla.com/fsd/safety&quot;&gt;safety page&lt;/a&gt; now puts cars driven with FSD (Supervised) at 6,006,200 miles per major collision in North America over the latest 12 months, against 2,031,221 miles for Teslas driven manually with active safety features and a U.S. average of 660,164. Tesla counts a collision against FSD if the system was active within five seconds of impact. At 11:55 p.m. EDT on Monday, Elon Musk &lt;a aria-label=&quot;replied: @elonmusk on X&quot; href=&quot;https://x.com/elonmusk/status/2114928906419765285&quot;&gt;replied&lt;/a&gt; with a &quot;100&quot; emoji to a post by Pierre Ferragu that it is &quot;10x safer to not-drive FSD than to drive a non-Tesla. What are you waiting for, Europe?&quot; Earlier in the day Musk had welcomed approval of the software in Latvia.&lt;/p&gt;&lt;p&gt;On the SpaceX side, Verizon&#x27;s chief executive told analysts on Monday that a Starlink Mobile network able to compete in U.S. cities would take years and hundreds of billions of dollars, &lt;a href=&quot;https://finance.yahoo.com/markets/stocks/article/theres-no-secret-sauce-theres-no-shortcut-spacexs-telecom-ambitions-will-take-years-and-cost-hundreds-of-billions-of-dollars-ceos-and-analysts-say-193955155.html&quot;&gt;Yahoo Finance reported&lt;/a&gt;. Musk&#x27;s &lt;a href=&quot;https://x.com/elonmusk/status/2114774224015663608&quot;&gt;reply&lt;/a&gt; at 1:40 p.m. EDT: &quot;Will take 2 or 3 years.&quot; The same day, Starlink&#x27;s phone service went live across Brazil.&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>Monday, October 26, 2026: Starlink&#x27;s terms, and a $40 billion lease</title>
     <link rel="alternate" type="text/html" href="https://cfmayer.github.io/elon-gazette/issues/2026-10-26/"/>
