@@ -5,10 +5,19 @@
   <link rel="self" type="application/atom+xml" href="https://cfmayer.github.io/elon-gazette/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://cfmayer.github.io/elon-gazette/"/>
   <id>https://cfmayer.github.io/elon-gazette/</id>
-  <updated>2026-10-29T09:28:02-04:00</updated>
+  <updated>2026-10-30T09:10:43-04:00</updated>
   <author><name>The Elon Gazette</name></author>
   <icon>https://cfmayer.github.io/elon-gazette/apple-touch-icon.png</icon>
   <rights>The Elon Gazette is compiled from public posts on X and published reporting. Quotes are reproduced verbatim unless marked as translated or paraphrased.</rights>
+  <entry>
+    <title>Friday, October 30, 2026: Telepathy first, then Blindsight</title>
+    <link rel="alternate" type="text/html" href="https://cfmayer.github.io/elon-gazette/issues/2026-10-30/"/>
+    <link rel="enclosure" type="application/pdf" length="747615" href="https://cfmayer.github.io/elon-gazette/issues/2026-10-30/elon-gazette-2026-10-30.pdf"/>
+    <id>https://cfmayer.github.io/elon-gazette/issues/2026-10-30/</id>
+    <published>2026-10-30T08:00:00-04:00</published>
+    <updated>2026-10-30T09:10:43-04:00</updated>
+    <summary type="html">&lt;p&gt;&quot;Neuralink&#x27;s first product is called Telepathy. It enables high-speed communication with computers or humans simply by thinking. Output bandwidth will vastly exceed the fastest human speech or typing in a few years,&quot; Elon Musk &lt;a aria-label=&quot;posted: @elonmusk on X&quot; href=&quot;https://x.com/elonmusk/status/2116018780111597911&quot;&gt;posted&lt;/a&gt; at 12:06 a.m. EDT Friday. He was quoting Neuralink&#x27;s &lt;a aria-label=&quot;post: @neuralink on X&quot; href=&quot;https://x.com/neuralink/status/2115878416423784939&quot;&gt;post&lt;/a&gt; that its engineers had visited a speech restoration study participant for a 72-hour hackathon &quot;to enhance the experience of using Neuralink to communicate with thought.&quot;&lt;/p&gt;&lt;p&gt;Four minutes later he &lt;a href=&quot;https://x.com/elonmusk/status/2116019939056513218&quot;&gt;added&lt;/a&gt;: &quot;Our second product is called Blindsight and it will, as the name suggests, enable even those who are completely blind or have never seen to see. It is ready from an engineering standpoint. Just waiting on regulatory approval.&quot; Blindsight received the FDA&#x27;s Breakthrough Device Designation two years ago, which speeds review but is not an approval, &lt;a href=&quot;https://teslanorth.com/2026/10/29/elon-blindsight-ready-2-years-after-fda-breakthrough/&quot;&gt;TeslaNorth&lt;/a&gt; noted. At 12:36 a.m. Musk &lt;a href=&quot;https://x.com/elonmusk/status/2116026427128832140&quot;&gt;wrote&lt;/a&gt;: &quot;Hopefully, in a few years, we will be able to shunt signals from the motor and sensory areas of the brain to the limbs and enable people to use their hands and walk again.&quot;&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>Thursday, October 29, 2026: &quot;Starship 42 will be the first tower catch&quot;</title>
     <link rel="alternate" type="text/html" href="https://cfmayer.github.io/elon-gazette/issues/2026-10-29/"/>
