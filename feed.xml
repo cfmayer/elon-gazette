@@ -5,10 +5,19 @@
   <link rel="self" type="application/atom+xml" href="https://cfmayer.github.io/elon-gazette/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://cfmayer.github.io/elon-gazette/"/>
   <id>https://cfmayer.github.io/elon-gazette/</id>
-  <updated>2026-10-30T09:10:43-04:00</updated>
+  <updated>2026-11-03T09:20:47-05:00</updated>
   <author><name>The Elon Gazette</name></author>
   <icon>https://cfmayer.github.io/elon-gazette/apple-touch-icon.png</icon>
   <rights>The Elon Gazette is compiled from public posts on X and published reporting. Quotes are reproduced verbatim unless marked as translated or paraphrased.</rights>
+  <entry>
+    <title>Tuesday, November 3, 2026: &quot;Around 1.2M Blackwells&quot; at Colossus 2</title>
+    <link rel="alternate" type="text/html" href="https://cfmayer.github.io/elon-gazette/issues/2026-11-03/"/>
+    <link rel="enclosure" type="application/pdf" length="208779" href="https://cfmayer.github.io/elon-gazette/issues/2026-11-03/elon-gazette-2026-11-03.pdf"/>
+    <id>https://cfmayer.github.io/elon-gazette/issues/2026-11-03/</id>
+    <published>2026-11-03T08:00:00-05:00</published>
+    <updated>2026-11-03T09:20:47-05:00</updated>
+    <summary type="html">&lt;p&gt;&quot;There will be a total of around 1.2M Blackwells at Colossus 2 by end of year,&quot; Elon Musk &lt;a aria-label=&quot;posted: @elonmusk on X&quot; href=&quot;https://x.com/elonmusk/status/2116596535433871630&quot;&gt;posted&lt;/a&gt; at 2:21 p.m. EDT Saturday, after a walk around the SpaceXAI site in Memphis and its new campuses in Southaven, Mississippi. Half an hour earlier he &lt;a href=&quot;https://x.com/elonmusk/status/2116587474021691629&quot;&gt;laid out&lt;/a&gt; the buildings: &quot;Macroharder and Minihard both have 220k GB300s with 800 gig nics configured for training. Gun Range will have the same. Spam (used to house Hormel products) will have ~200k GB300s, but configured for inference, so much simpler networking and less than half the fiber.&quot;&lt;/p&gt;&lt;p&gt;Gun Range, a former police and fire training center, sits on 55.9 acres, and Spam is a 53-acre former Hormel warehouse site, &lt;a href=&quot;https://www.datacenterdynamics.com/en/news/spacexai-launching-two-additional-data-center-campuses-in-mississippi-to-further-expand-colossus-2/&quot;&gt;DCD&lt;/a&gt; reported; Musk said Gun Range is tracking to be operational by the end of November and Spam in December. &quot;It was literally the local police department&#x27;s gun range that we bought,&quot; he &lt;a href=&quot;https://x.com/elonmusk/status/2116595217138639087&quot;&gt;wrote&lt;/a&gt;. At 6:54 p.m. he &lt;a href=&quot;https://x.com/elonmusk/status/2116665263718342979&quot;&gt;added&lt;/a&gt;: &quot;Macrohard is 110k GB200 and 220k GB300.&quot; On Sunday at 3:32 p.m. EST, quoting a post that called Colossus 2 the world&#x27;s most powerful AI data center, he &lt;a href=&quot;https://x.com/elonmusk/status/2116991729660575998&quot;&gt;wrote&lt;/a&gt;: &quot;The other supercompute projects are unable to reach their goals, but SpaceX is already achieving ours.&quot;&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>Friday, October 30, 2026: Telepathy first, then Blindsight</title>
     <link rel="alternate" type="text/html" href="https://cfmayer.github.io/elon-gazette/issues/2026-10-30/"/>
