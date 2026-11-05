@@ -5,10 +5,19 @@
   <link rel="self" type="application/atom+xml" href="https://cfmayer.github.io/elon-gazette/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://cfmayer.github.io/elon-gazette/"/>
   <id>https://cfmayer.github.io/elon-gazette/</id>
-  <updated>2026-11-04T09:17:05-05:00</updated>
+  <updated>2026-11-05T08:52:24-05:00</updated>
   <author><name>The Elon Gazette</name></author>
   <icon>https://cfmayer.github.io/elon-gazette/apple-touch-icon.png</icon>
-  <rights>The Elon Gazette is compiled from public posts on X and published reporting. Quotes are reproduced verbatim unless marked as translated or paraphrased.</rights>
+  <rights>The Elon Gazette is compiled from public posts on X and published reporting. Quotes are reproduced verbatim unless marked as translated or paraphrased. Emoji in source posts are omitted from quoted text.</rights>
+  <entry>
+    <title>Thursday, November 5, 2026: Grok Bot answers the phone and shops; Starlink Mobile picks Qualcomm for a hybrid U.S. network</title>
+    <link rel="alternate" type="text/html" href="https://cfmayer.github.io/elon-gazette/issues/2026-11-05/"/>
+    <link rel="enclosure" type="application/pdf" length="169287" href="https://cfmayer.github.io/elon-gazette/issues/2026-11-05/elon-gazette-2026-11-05.pdf"/>
+    <id>https://cfmayer.github.io/elon-gazette/issues/2026-11-05/</id>
+    <published>2026-11-05T08:00:00-05:00</published>
+    <updated>2026-11-05T08:52:24-05:00</updated>
+    <summary type="html">&lt;p&gt;Elon Musk spent Wednesday and overnight pitching &lt;a href=&quot;https://x.com/elonmusk/status/2118036744662880439&quot;&gt;Grok Bot&lt;/a&gt; as a personal agent that can stay on a live phone call, answer mid-call questions from chat, research purchases, place orders and handle returns. He also amplified SpaceX&#x27;s &lt;a href=&quot;https://x.com/Starlink/status/2117973275414532165&quot;&gt;Starlink Mobile&lt;/a&gt; plan for a fully integrated U.S. satellite-and-terrestrial phone network built on Qualcomm Dragonwing cellular silicon starting in 2027, and pointed early Starlink customers to free Standard kit upgrades.&lt;/p&gt;&lt;p&gt;Overnight he kept the product drumbeat going – dentist appointments by phone, a pocket &quot;GrokPuck&quot; demo, and a one-line reaction to a congressional call for pausing advanced AI. The through-line across the window was agents, spectrum and dishes.&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>Wednesday, November 4, 2026: &quot;Data centers in space looking pretty appealing right now&quot;</title>
     <link rel="alternate" type="text/html" href="https://cfmayer.github.io/elon-gazette/issues/2026-11-04/"/>
