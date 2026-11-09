@@ -5,10 +5,19 @@
   <link rel="self" type="application/atom+xml" href="https://cfmayer.github.io/elon-gazette/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://cfmayer.github.io/elon-gazette/"/>
   <id>https://cfmayer.github.io/elon-gazette/</id>
-  <updated>2026-11-09T08:36:01-05:00</updated>
+  <updated>2026-11-09T08:57:44-05:00</updated>
   <author><name>The Elon Gazette</name></author>
   <icon>https://cfmayer.github.io/elon-gazette/apple-touch-icon.png</icon>
   <rights>The Elon Gazette is compiled from public posts on X and published reporting. Quotes are reproduced verbatim unless marked as translated or paraphrased. Emoji in source posts are omitted from quoted text.</rights>
+  <entry>
+    <title>Monday, November 9, 2026: SpaceX lines up its first try at catching both halves of Starship</title>
+    <link rel="alternate" type="text/html" href="https://cfmayer.github.io/elon-gazette/issues/2026-11-09/"/>
+    <link rel="enclosure" type="application/pdf" length="688243" href="https://cfmayer.github.io/elon-gazette/issues/2026-11-09/elon-gazette-2026-11-09.pdf"/>
+    <id>https://cfmayer.github.io/elon-gazette/issues/2026-11-09/</id>
+    <published>2026-11-09T08:00:00-05:00</published>
+    <updated>2026-11-09T08:57:44-05:00</updated>
+    <summary type="html">&lt;p&gt;Elon Musk opened the weekend by announcing that SpaceX will try to catch both the Super Heavy booster and the Starship upper stage on its next flight, which SpaceX now targets for Friday, November 13. Hours later he spent an hour on stage, by video link, with investor Ron Baron, laying out plans for Terafab chip making, Starmind computers in orbit and a much faster Starlink. Over the weekend he said the Cybertruck order backlog is larger than Tesla can build before the line closes, so many deposits will be refunded. He also promised overnight fixes after Grok Bot subscribers complained about running out of usage.&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>Friday, November 6, 2026: Cybertruck winds down at Giga Texas next summer to clear the line for Cybercab</title>
     <link rel="alternate" type="text/html" href="https://cfmayer.github.io/elon-gazette/issues/2026-11-06/"/>
