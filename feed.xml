@@ -5,10 +5,19 @@
   <link rel="self" type="application/atom+xml" href="https://cfmayer.github.io/elon-gazette/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://cfmayer.github.io/elon-gazette/"/>
   <id>https://cfmayer.github.io/elon-gazette/</id>
-  <updated>2026-11-13T09:01:45-05:00</updated>
+  <updated>2026-11-16T08:59:44-05:00</updated>
   <author><name>The Elon Gazette</name></author>
   <icon>https://cfmayer.github.io/elon-gazette/apple-touch-icon.png</icon>
   <rights>The Elon Gazette is compiled from public posts on X and published reporting. Quotes are reproduced verbatim unless marked as translated or paraphrased; emoji in quoted posts are omitted.</rights>
+  <entry>
+    <title>Monday, November 16, 2026: Ship 42 comes home, and Musk hugs it</title>
+    <link rel="alternate" type="text/html" href="https://cfmayer.github.io/elon-gazette/issues/2026-11-16/"/>
+    <link rel="enclosure" type="application/pdf" length="895149" href="https://cfmayer.github.io/elon-gazette/issues/2026-11-16/elon-gazette-2026-11-16.pdf"/>
+    <id>https://cfmayer.github.io/elon-gazette/issues/2026-11-16/</id>
+    <published>2026-11-16T08:00:00-05:00</published>
+    <updated>2026-11-16T08:59:44-05:00</updated>
+    <summary type="html">&lt;p&gt;At 4:20 p.m. EST Saturday the launch tower at Starbase, Texas, closed its arms around a Starship upper stage that had just spent 22.5 hours in space, the first catch of a ship returning from orbit. Elon Musk narrated the weekend in real time, from &quot;Good deorbit burn&quot; to &quot;I hugged ship 42 upon its return,&quot; explained why the Super Heavy booster ended up in the Gulf instead, and on Sunday went over the heat shield from a boom lift, judging that the ship &quot;could probably be reflown with a few weeks of refurbishment.&quot; He then sketched a longer, nine-engine Starship V4. The same afternoon, rival United Launch Alliance lost a Vulcan rocket and 40 Amazon satellites; Musk wished it a quick return to flight. Between launches he signed the open letter calling for Jensen Huang&#x27;s return to Nvidia, said the Cybercab&#x27;s $299 monthly fee is too high, and amplified Starlink&#x27;s spread through airlines, Greek railways and rural schools.&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>Friday, November 13, 2026: One word for Jensen Huang, and a $74 billion pitch for SpaceX&#x27;s neighbors</title>
     <link rel="alternate" type="text/html" href="https://cfmayer.github.io/elon-gazette/issues/2026-11-13/"/>
