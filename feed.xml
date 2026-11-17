@@ -5,10 +5,19 @@
   <link rel="self" type="application/atom+xml" href="https://cfmayer.github.io/elon-gazette/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://cfmayer.github.io/elon-gazette/"/>
   <id>https://cfmayer.github.io/elon-gazette/</id>
-  <updated>2026-11-16T08:59:44-05:00</updated>
+  <updated>2026-11-17T09:03:47-05:00</updated>
   <author><name>The Elon Gazette</name></author>
   <icon>https://cfmayer.github.io/elon-gazette/apple-touch-icon.png</icon>
   <rights>The Elon Gazette is compiled from public posts on X and published reporting. Quotes are reproduced verbatim unless marked as translated or paraphrased; emoji in quoted posts are omitted.</rights>
+  <entry>
+    <title>Tuesday, November 17, 2026: Bound for China, Musk sends a &quot;digital me&quot; to New York</title>
+    <link rel="alternate" type="text/html" href="https://cfmayer.github.io/elon-gazette/issues/2026-11-17/"/>
+    <link rel="enclosure" type="application/pdf" length="703444" href="https://cfmayer.github.io/elon-gazette/issues/2026-11-17/elon-gazette-2026-11-17.pdf"/>
+    <id>https://cfmayer.github.io/elon-gazette/issues/2026-11-17/</id>
+    <published>2026-11-17T08:00:00-05:00</published>
+    <updated>2026-11-17T09:03:47-05:00</updated>
+    <summary type="html">&lt;p&gt;Elon Musk confirmed on Monday night that he will be in China this week, where a U.S. official says he will travel with President Donald Trump&#x27;s delegation, so his Wednesday interview at the New York Times DealBook Summit will be &quot;digital me.&quot; Meanwhile he kept replaying Saturday&#x27;s Starship catch, from SpaceX&#x27;s onboard video of Ship 42 to the scraped material he says will give way to stainless steel wool on future flights. He also said the Federal Aviation Administration (FAA) had turned down free Starlink terminals before Friday&#x27;s nationwide ground stop, posted a picture of &quot;the long game&quot; at Delta&#x27;s expense, and told Tesla owners that trials putting their own cars into the Robotaxi fleet may start next month. And after Jensen Huang&#x27;s X account lost its verification following his exit from Nvidia, Musk promised the blue check back &quot;for free on the house.&quot;&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>Monday, November 16, 2026: Ship 42 comes home, and Musk hugs it</title>
     <link rel="alternate" type="text/html" href="https://cfmayer.github.io/elon-gazette/issues/2026-11-16/"/>
