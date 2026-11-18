@@ -5,10 +5,19 @@
   <link rel="self" type="application/atom+xml" href="https://cfmayer.github.io/elon-gazette/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://cfmayer.github.io/elon-gazette/"/>
   <id>https://cfmayer.github.io/elon-gazette/</id>
-  <updated>2026-11-17T09:03:47-05:00</updated>
+  <updated>2026-11-18T08:54:08-05:00</updated>
   <author><name>The Elon Gazette</name></author>
   <icon>https://cfmayer.github.io/elon-gazette/apple-touch-icon.png</icon>
   <rights>The Elon Gazette is compiled from public posts on X and published reporting. Quotes are reproduced verbatim unless marked as translated or paraphrased; emoji in quoted posts are omitted.</rights>
+  <entry>
+    <title>Wednesday, November 18, 2026: A facepalm for the FAA, then a motorcade in Shenzhen</title>
+    <link rel="alternate" type="text/html" href="https://cfmayer.github.io/elon-gazette/issues/2026-11-18/"/>
+    <link rel="enclosure" type="application/pdf" length="883904" href="https://cfmayer.github.io/elon-gazette/issues/2026-11-18/elon-gazette-2026-11-18.pdf"/>
+    <id>https://cfmayer.github.io/elon-gazette/issues/2026-11-18/</id>
+    <published>2026-11-18T08:00:00-05:00</published>
+    <updated>2026-11-18T08:54:08-05:00</updated>
+    <summary type="html">&lt;p&gt;Elon Musk answered Transportation Secretary Sean Duffy&#x27;s defense of a ground-based air traffic network with a facepalm on Tuesday, then reposted the warning he wrote in February 2025 about the Federal Aviation Administration&#x27;s (FAA) failing communications. Tesla unveiled Powercore, a solid-state transformer that Musk called &quot;advanced solid state transformers at scale,&quot; and he said the product had been planned for more than three years. He pitched Grok Bot as an accountant and a cost cutter, said Grok 4.8 still needs &quot;another week or two of polish,&quot; and told followers that SpaceX is &quot;assuming zero sales to OpenAI.&quot; Overnight he explained the literary names of The Boring Company&#x27;s tunnel machines and put the price of cities on the Moon and Mars at &quot;about a megaton per year to orbit.&quot; By Wednesday evening in China he was riding in President Donald Trump&#x27;s motorcade in Shenzhen.&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>Tuesday, November 17, 2026: Bound for China, Musk sends a &quot;digital me&quot; to New York</title>
     <link rel="alternate" type="text/html" href="https://cfmayer.github.io/elon-gazette/issues/2026-11-17/"/>
